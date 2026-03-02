@@ -87,6 +87,8 @@ Lower crustal density: Method and uncertainty quantification.
 Bulletin of the Seismological Society of America.  
 https://doi.org/10.1785/0220250233
 
+Dataset DOI (Zenodo): https://doi.org/10.5281/zenodo.18842173
+
 ---
 
 # Version
