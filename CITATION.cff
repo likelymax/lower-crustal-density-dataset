@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Lower crustal density lookup tables (PIM and CRUST1.0-based)"
+message: "If you use this dataset, please cite the associated publication below."
+type: dataset
+authors:
+  - family-names: Wang
+    given-names: Yitan
+    affiliation: "University of Florida"
+version: 1.0.0
+date-released: 2025-01-01
+repository-code: "https://github.com/likelymax/lower-crustal-density-datasets"
+license: "CC-BY-4.0"
+keywords:
+  - lower crustal density
+  - Ps/P amplitude ratio
+  - uncertainty quantification
+  - crustal structure
+  - CRUST1.0
+  - parameter inclusion model
+  - seismology
+  - geophysics
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Wang
+      given-names: Yitan
+  title: "Lower crustal density: Method and uncertainty quantification"
+  journal: "Bulletin of the Seismological Society of America"
+  year: 2025
+  doi: "10.1785/0220250233"
